@@ -55,7 +55,6 @@ Malika Ihle is the Reproducible Research Oxford coordinator, she holds a PhD in 
 
 Rose is a postdoctoral researcher in the Inter-Disciplinary Ecology and Evolution Lab at the University of New South Wales.
 
-
 ---
 
 ![Tim Parker](/img/people/TimParker.png)
@@ -66,7 +65,11 @@ Tim Parker is an Associate Professor of Biology at Whitman College and has inter
 
 ---
 
+![Dom Roche](/img/people/DomRoche.png)
+
 #### [Dominique Roche](https://dominiqueroche.weebly.com/) (at large)   
+
+Dom Roche is a Marie Skłodowska-Curie Global Fellow at Carleton University, Canada. He studies how open data improve transparency, reproducibility, and collaboration in science.
 
 ---
 
