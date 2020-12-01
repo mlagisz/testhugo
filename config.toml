@@ -62,29 +62,30 @@ paginate = 4
     
 # Top bar social links menu
 
-[[menu.topbar]]
-    weight = 1
+[[menu.main]] #was .topbar =1
+    weight = 80
     name = "GitHub"
     url = "https://github.com/mlagisz/sorteetesthugo"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
+    
 #[[menu.topbar]]
 #    weight = 2
 #    name = "Facebook"
 #    url = "http://facebook.com"
 #    pre = "<i class='fab fa-2x fa-facebook'></i>"
 
-[[menu.topbar]]
-    weight = 3
+[[menu.main]] #was .topbar =3
+    weight = 70
     name = "Twitter"
     url = "https://twitter.com/sortecoevo"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
-[[menu.topbar]]
-    weight = 4
-    name = "Email"
-    url = "mailto:sortecoevo@gmail.com"
-    pre = "<i class='fas fa-2x fa-envelope'></i>"
+#[[menu.topbar]] #was .topbar =4
+#    weight = 4
+#    name = "Email"
+#    url = "mailto:sortecoevo@gmail.com"
+#    pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
