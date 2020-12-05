@@ -143,19 +143,19 @@ paginate = 4
 #    logo_small = "img/logo-small.png"
 
 
- [params.logo]
-    relURL = "img/logo.png"
-    title = ""
-    width = 212
-    height = 77
-    alt = "Logo"
+# [params.logo]
+#    relURL = "img/logo.png"
+#    title = ""
+#    width = 212
+#    height = 77
+#    alt = "Logo"
     
-[params.logo_small]
-    relURL = "img/logo-small.png"
-    title = ""
-    width = 40
-    height = 60
-    alt = "Logo"
+#[params.logo_small]
+#    relURL = "img/logo-small.png"
+#    title = ""
+#    width = 40
+#    height = 60
+#    alt = "Logo"
 
 [Permalinks]
 #    blog = "/blog/:year/:month/:day/:filename/"
