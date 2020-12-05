@@ -140,7 +140,8 @@ paginate = 4
 
 
 [params.logo]
-    url = "img/logo.png"
+    logo = "img/logo.png"
+    logo_small = "img/logo-small.png"
     title = ""
 #    width = 50
     height = 150
