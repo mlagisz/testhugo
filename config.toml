@@ -144,14 +144,14 @@ paginate = 4
 
 
  [params.logo]
-    url = "img/logo.png"
+    relURL = "img/logo.png"
     title = ""
     width = 212
     height = 77
     alt = "Logo"
     
 [params.logo_small]
-    url = "img/logo-small.png"
+    relURL = "img/logo-small.png"
     title = ""
     width = 40
     height = 60
