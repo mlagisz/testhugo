@@ -13,15 +13,13 @@
                     <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
                       <span class="sr-only">{{ i18n "navToggle" }}</span>
                         <i class="fas fa-align-justify"></i>
-                        
+                    </button>
          <div class="social">
             {{ range .Site.Menus.topbar.ByWeight }}
             <a href="{{ .URL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>
             {{ end }}
           </div>
-          
-                    </button>
-
+  
                 </div>
             </div>
             <!--/.navbar-header --> 
@@ -44,6 +42,7 @@
                     {{ end  }}
                   </li>
                   {{ end }}
+                  
                 </ul>
             </div>
             <!--/.nav-collapse -->

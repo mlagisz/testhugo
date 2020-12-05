@@ -62,10 +62,10 @@ paginate = 4
     
 # Top bar social links menu
 
-[[menu.main]] #was .topbar =1
-    weight = 80
-    name = ""
-    identifier = "GitHub"
+[[menu.topbar]]
+    weight = 1
+    name = "GitHub"
+    #identifier = "GitHub"
     url = "https://github.com/mlagisz/sorteetesthugo"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
@@ -76,10 +76,10 @@ paginate = 4
 #    url = "http://facebook.com"
 #    pre = "<i class='fab fa-2x fa-facebook'></i>"
 
-[[menu.main]] #was .topbar =3
-    weight = 70
-    name = ""
-    identifier = "Twitter"
+[[menu.topbar]]
+    weight = 3
+    name = "Twitter"
+    #identifier = "Twitter"
     url = "https://twitter.com/sortecoevo"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
