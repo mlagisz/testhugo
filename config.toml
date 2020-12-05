@@ -140,8 +140,8 @@ paginate = 4
       """
       
       
-#    logo = "img/logo.png"
-#    logo_small = "img/logo-small.png"
+    logo = "img/logo.png"
+    logo_small = "img/logo-small.png"
 
 
 # [params.logo]
