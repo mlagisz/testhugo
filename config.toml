@@ -139,12 +139,8 @@ paginate = 4
       </p>
       """
 
+    logo.height = 150
 
-[params.logo]
-    title = ""
-#    width = 50
-    height = 150
-    alt = "Logo"
     
 
 [Permalinks]
