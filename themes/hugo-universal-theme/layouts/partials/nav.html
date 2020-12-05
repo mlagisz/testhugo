@@ -14,13 +14,13 @@
                       <span class="sr-only">{{ i18n "navToggle" }}</span>
                         <i class="fas fa-align-justify"></i>
                         
+         <div class="social">
+            {{ range .Site.Menus.topbar.ByWeight }}
+            <a href="{{ .URL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>
+            {{ end }}
+          </div>
+          
                     </button>
-                    
-  <ul class="nav-links">
-    {{ range .Site.Menus.main }}
-    <li><a href="{{ .URL }}"><i class="{{ .Pre }}" aria-hidden="true"></i>&nbsp; {{ .Name }}</a></li>
-    {{ end }}
-  </ul>
 
                 </div>
             </div>

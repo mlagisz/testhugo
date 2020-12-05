@@ -83,6 +83,7 @@ paginate = 4
     url = "https://twitter.com/sortecoevo"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
+
 #[[menu.topbar]] #was .topbar 4
 #    weight = 4
 #    name = "Email"
