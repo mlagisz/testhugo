@@ -17,7 +17,8 @@
   border-bottom: 1px solid transparent;
 }
 
-.Site.Params.logo {  max-width: 50%;  height: auto; } 
+.logo {  max-width: 10%;  
+                    height: auto; } 
 
 /* MINIMIZING THE FOOTER? */
 /* footer */
