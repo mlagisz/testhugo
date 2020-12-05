@@ -64,7 +64,8 @@ paginate = 4
 
 [[menu.main]] #was .topbar =1
     weight = 80
-    name = "GitHub"
+    name = ""
+    identifier = "GitHub"
     url = "https://github.com/mlagisz/sorteetesthugo"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
@@ -77,7 +78,8 @@ paginate = 4
 
 [[menu.main]] #was .topbar =3
     weight = 70
-    name = "Twitter"
+    name = ""
+    identifier = "Twitter"
     url = "https://twitter.com/sortecoevo"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
@@ -148,7 +150,7 @@ paginate = 4
 [params.topbar]
     enable = true
     text = """<p class="hidden-sm hidden-xs">Contact us on: sortecoevo@gmail.com</p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <p class="hidden-md hidden-lg">
       <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
