@@ -56,7 +56,7 @@ paginate = 4
 [[menu.main]]
     identifier = "blog"
     name = "Posts"
-    url = "/posts/"
+    url = "/blog/"
     weight = 70
     
     
@@ -91,7 +91,7 @@ paginate = 4
 #    pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/post/"
+    viewMorePostLink = "/blog/"
     author = "ML"
     defaultKeywords = ["blog", "general", "news"]
     mainSections = ["blog"]
