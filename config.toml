@@ -91,7 +91,7 @@ paginate = 4
 #    pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/blog/"
+    viewMorePostLink = "/post/"
     author = "ML"
     defaultKeywords = ["blog", "general", "news"]
     mainSections = ["blog"]
