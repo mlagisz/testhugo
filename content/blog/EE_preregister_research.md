@@ -13,27 +13,25 @@ title: Ecologists and evolutionary biologists can and should pre-register their 
 
 *[This post has been originally posted on [ecoevotransparency.org](http://www.ecoevotransparency.org/)]*    
 
-## Ecologists and evolutionary biologists can and should pre-register their research
-
 I wrote a draft of this post a few weeks ago, and now seems like a good time for it to see the light of day given the great [new pre-print](https://osf.io/2dxu5/) just posted on [OSF Preprints](https://osf.io/preprints/) by Brian Nosek, David Mellor, and co-authors. They describe the utility of pre-registration across a variety of circumstances. I do something similar here, though I focus on ecology and evolutionary biology and I don?t try to be as thorough as Nosek et al.. For greater depth of analysis, check out their paper. On to my post?
 
 Transparency initiatives are gaining traction in ecology and evolutionary biology. Some of these initiatives have become familiar ? data archiving is quickly becoming business as usual ? though others are still rare and strange to most of us. Pre-registration is squarely in this second category. Although I know a number of ecologists / evolutionary biologists who are starting to pre-register their work (and I?ve participated in a few pre-registrations myself), I would guess that most eco/evo folks don?t even know what pre-registration is, and many who do know probably wonder if it would even be worth doing. My goals here are to explain what pre-registration is, why it?s useful, and why most ecologists and evolutionary biologists could be using it on a regular basis.
 
  
 
-### What is pre-registration?
+#### What is pre-registration?
 
 At its most thorough, a pre-registration involves archiving a hypothesis and a detailed study design, including a data analysis plan, prior to gathering data. However, as you?ll read below, the data analysis plan is typically the core element of a useful pre-registration, and a pre-registration can happen after data gathering as long as the analysis plan is declared without knowledge of the outcome of the analysis or its alternatives.  Pre-registrations are archived in a public registry (the [Open Science Framework, OSF](https://osf.io), for example) so that they can later be compared to the analysis is ultimately conducted. Depending on the pre-registration archive, the pre-registration may be embargoed to maintain confidentiality of a research plan until it is completed. Once a pre-registration is filed, it cannot be edited, though it could potentially be updated with further pre-registrations. When a pre-registered study is published, the paper should cite (or better yet, link to) the pre-registration to show the extent to which the plan was followed.
 
  
 
-### Why is pre-registration a useful component of transparency?
+#### Why is pre-registration a useful component of transparency?
 
 People (and, including all of us) are worryingly good at filtering available evidence so that they end up seeing the world that they expect to see rather than the world as it actually is. In other circumstances, after noticing a pattern, we readily convince ourselves that we predicted (or would have predicted) that particular outcome. All the while, we fool ourselves into believing we?re being unbiased. Science is all about avoiding these biases and taking honest stock of available evidence, but in the absence of adequate safeguards, there is good evidence that scientists can fall prey to cognitive biases (for a striking example, see [van Wilgengurg and Elgar 2013](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053548)). Pre-registration is one of a number of tools that helps scientists take a clear eyed view of evidence, and it helps those of us reading scientific papers to identify evidence that is less likely to have been run through a biased filter.  When scientists fiddle with analyses and can see how that fiddling impacts results, there is a great temptation to choose the analyses that produce the most desirable outcome. If this biased subset of results gets published and other results go unreported, we get a biased understanding of the world. In my ignorant past I?ve conducted and presented analyses this way, and nearly every other ecologist and evolutionary biologist I?ve talked to about this admits to doing this sort of thing at least once. For this and other reasons ([Fidler et al. 2016](https://academic.oup.com/bioscience/article/67/3/282/2900173), [Parker et al. 2016](https://doi.org/10.1016/j.tree.2016.07.002)), I think this problem is common enough to reduce the average reliability of the published literature. Pre-registration could improve average reliability of this literature and help us identify papers that are less likely to be biased.
 
  
 
-### Why is pre-registration a viable tool for ecologists and evolutionary biologists?
+#### Why is pre-registration a viable tool for ecologists and evolutionary biologists?
 
 I?ve written this section as a series of hypothetical concerns or questions from ecologists or evolutionary biologists, followed by responses to those concerns / questions.
 
