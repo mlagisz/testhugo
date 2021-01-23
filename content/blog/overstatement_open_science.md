@@ -9,7 +9,8 @@ tags:
 title: Is overstatement of generality an Open Science issue?
 
 ---
-**[This post has been originally posted on [ecoevotransparency.org](http://www.ecoevotransparency.org/)]**    
+
+*[This post has been originally posted on [ecoevotransparency.org](http://www.ecoevotransparency.org/)]*    
 
 ## Is overstatement of generality an Open Science issue?   
 
