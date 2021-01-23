@@ -54,9 +54,9 @@ paginate = 4
     weight = 60
 
 [[menu.main]]
-    identifier = "post"
+    identifier = "blog"
     name = "Posts"
-    url = "/post/"
+    url = "/posts/"
     weight = 70
     
     
