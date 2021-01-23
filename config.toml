@@ -1,4 +1,4 @@
-baseurl = "https://www.sortee.org"
+baseurl = "https://sorteetesthugo.netlify.app/"
 title = "SORTEE"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
