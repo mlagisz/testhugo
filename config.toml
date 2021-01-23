@@ -53,11 +53,11 @@ paginate = 4
     url = "/contact/"
     weight = 60
 
-#[[menu.main]]
-#    identifier = "post"
-#    name = "Posts"
-#    url = "/post/"
-#    weight = 70
+[[menu.main]]
+    identifier = "post"
+    name = "Posts"
+    url = "/post/"
+    weight = 70
     
     
 # Top bar social links menu
