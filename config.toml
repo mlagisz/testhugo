@@ -158,8 +158,9 @@ paginate = 4
 #    height = 60
 #    alt = "Logo"
 
+
 [Permalinks]
-#    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
