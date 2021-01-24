@@ -7,7 +7,7 @@ categories:
 tags:
 - Open Science
 - reproducibility
-title: Replication: step 1 in PhD research
+title: Replication - step 1 in PhD research
 
 ---
 
