@@ -7,7 +7,7 @@ categories:
 tags:
 - Open Science
 - reproducibility
-title: guest post: Reproducibility Project: Ecology and Evolutionary Biology
+title: Reproducibility Project - Ecology and Evolutionary Biology
 
 ---
 

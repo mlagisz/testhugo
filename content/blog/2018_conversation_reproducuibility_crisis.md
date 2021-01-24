@@ -7,7 +7,7 @@ categories:
 tags:
 - Open Science
 - reproducibility
-title: A conversation: Where do ecology and evolution stand in the broader ‘reproducibility crisis’ of science?
+title: A conversation - Where do ecology and evolution stand in the broader ‘reproducibility crisis’ of science?
 
 ---
 
