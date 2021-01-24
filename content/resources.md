@@ -22,7 +22,7 @@ title: Resources
 * [Center for Reproducible Science at the Unviersity of Zurich](https://www.crs.uzh.ch/en.html)  
 
 
-### Links
+### Links:
 
 * [Transparency and Openness Promotion guidelines](https://cos.io/our-services/top-guidelines/)
 
@@ -38,7 +38,7 @@ title: Resources
 
 * E-mail list (Google Group) Transparency in EcoEvo; request to join [here](https://groups.google.com/forum/#!forum/transparency_in_ecoevo/join) (if you don’t have a Gmail account you may have to email parkerth [at] whitman [dot] edu directly)
 
-### A Short List of Useful References
+### A Short List of Useful References:
 
 * Barto, E. Kathryn and Matthias C. Rillig. (2012), “Dissemination biases in ecology: effect sizes matter more than quality.” Oikos, 121: 228–235. [doi:10.1111/j.1600-0706.2011.19401.x](doi:10.1111/j.1600-0706.2011.19401.x)
 
