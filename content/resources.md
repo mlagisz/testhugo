@@ -26,7 +26,7 @@ title: Resources
 
 * [Transparency and Openness Promotion guidelines](https://cos.io/our-services/top-guidelines/)
 
-* [Center for Open Science(https://cos.io/)
+* [Center for Open Science](https://cos.io/)
 
 * [Open Science Framework](https://osf.io/)
 
@@ -36,7 +36,7 @@ title: Resources
 
 * [Replication of Influential Studies by Undergraduates](https://goo.gl/forms/ljfClCSE29xKqCLx2)
 
-* E-mail list (Google Group) Transparency in EcoEvo; request to join at:  [https://groups.google.com/forum/#!forum/transparency_in_ecoevo/join](https://groups.google.com/forum/#!forum/transparency_in_ecoevo/join) (if you don’t have a Gmail account you may have to email parkerth [at] whitman [dot] edu directly)
+* E-mail list (Google Group) Transparency in EcoEvo; request to join [here](https://groups.google.com/forum/#!forum/transparency_in_ecoevo/join) (if you don’t have a Gmail account you may have to email parkerth [at] whitman [dot] edu directly)
 
 ### A Short List of Useful References
 
